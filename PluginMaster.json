@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "Kire",
+    "Name": "SmtcLyrics",
+    "InternalName": "SmtcLyrics",
+    "RepoUrl": "https://github.com/En0k1Ki/Dalamud.SmtcLyrics",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+    "ApplicableVersion": "any",
+    "Tags": ["autokey"],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "游戏内DTR歌词显示",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/En0k1Ki/Dalamud.SmtcLyrics/releases/download/Dalamud.SmtcLyrics-v1.2/Dalamud.SmtcLyrics.zip",
+    "DownloadLinkTesting": "https://github.com/En0k1Ki/Dalamud.SmtcLyrics/releases/download/Dalamud.SmtcLyrics-v1.2/Dalamud.SmtcLyrics.zip",
+    "DownloadLinkUpdate": "https://github.com/En0k1Ki/Dalamud.SmtcLyrics/releases/download/Dalamud.SmtcLyrics-v1.2/Dalamud.SmtcLyrics.zip"
+  },
+  {
